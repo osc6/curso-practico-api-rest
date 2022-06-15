@@ -1,0 +1,19 @@
+{
+  "name": "curso-practico-api-rest",
+  "version": "1.0.0",
+  "description": "Curso practico API REST",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osc6/curso-practico-api-rest.git"
+  },
+  "author": "@osc6",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/osc6/curso-practico-api-rest/issues"
+  },
+  "homepage": "https://github.com/osc6/curso-practico-api-rest#readme"
+}
